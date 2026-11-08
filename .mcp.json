@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "plagio": {
+      "type": "http",
+      "url": "https://plagio.dev/mcp"
+    }
+  }
+}

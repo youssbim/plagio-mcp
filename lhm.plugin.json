@@ -1,0 +1,10 @@
+{
+  "identifier": "plagio",
+  "name": "plagio",
+  "version": "1.0.0",
+  "description": "Rebuild any website's design: capture components, whole pages, brand tokens and animations from real sites as specs your agent follows.",
+  "homepage": "https://plagio.dev",
+  "icon": "https://plagio.dev/icon.png",
+  "tags": ["design", "web-capture", "design-tokens", "css", "tailwind"],
+  "url": "https://plagio.dev/mcp"
+}

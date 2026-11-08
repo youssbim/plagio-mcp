@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "plagio",
+  "version": "1.0.0",
+  "description": "Rebuild any website's design: capture components, whole pages, brand tokens and animations from real sites as specs your agent follows.",
+  "author": { "name": "plagio.dev", "url": "https://plagio.dev" },
+  "homepage": "https://plagio.dev",
+  "repository": "https://github.com/youssbim/plagio-mcp",
+  "license": "MIT",
+  "keywords": ["design", "mcp", "web-capture", "design-tokens", "css", "tailwind"]
+}
