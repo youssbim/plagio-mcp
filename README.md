@@ -34,6 +34,10 @@ All of them only read: nothing changes on the sites plagio opens.
 | `list_saved_captures` | What you saved with the browser extension |
 | `get_saved_capture` | One saved item, including recorded flows |
 
+## What it sends
+
+This package holds configuration only: no local code, no binaries, no stored credentials. Every tool call goes to `plagio.dev` with the URL or description you ask for, under your account, which counts credits and rate limits. See the [privacy policy](https://plagio.dev/privacy). The tools are served by the remote server, so they can change without a new commit here.
+
 ## Pricing
 
 A plagio account is required: 7 days free, then €9.99 a month billed every three months. See [plagio.dev](https://plagio.dev) for plans, and [credits and limits](https://docs.plagio.dev/mcp/credits) for what each capture costs.
