@@ -14,6 +14,13 @@ claude mcp add --transport http plagio https://plagio.dev/mcp
 
 Any other MCP client: add `https://plagio.dev/mcp` as a remote server over HTTP, then log in with OAuth. See the [quickstart](https://docs.plagio.dev/mcp/quickstart).
 
+From the terminal, with the [CLI](https://www.npmjs.com/package/plagio):
+
+```bash
+npm install -g plagio
+plagio login
+```
+
 To add only the skill:
 
 ```bash
